@@ -1,1 +1,1 @@
-# javaWebProject
+Автоматизация тестирования на JavaScript
